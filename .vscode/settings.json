@@ -1,6 +1,13 @@
 {
   "cSpell.words": [
+    "appspot",
     "crossorigin",
-    "Roboto"
+    "firebaseapp",
+    "Roboto",
+    "unsuscribe"
+  ],
+  "conventionalCommits.scopes": [
+    "validations",
+    "Firebase"
   ]
 }
